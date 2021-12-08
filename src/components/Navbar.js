@@ -3,10 +3,10 @@ import React from "react";
 const Navbar = () => {
   return (
     <>
-      <nav class="navbar navbar-expand-lg navbar-light bg-primary">
+      <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
-            Navbar
+            Ferrovia
           </a>
           <button
             class="navbar-toggler"
